@@ -119,8 +119,8 @@
         font-size: large;
     }
 
-    marquee {
-        font-size: small;
+      .p1 marquee {
+        display: none;
     }
 
     h1 {
@@ -242,6 +242,9 @@
         width: 110px;
 
     }
+      .p1 marquee {
+        display: none;
+    }
 
     .cse {
         border-radius: 15px;
@@ -353,8 +356,8 @@
     }
 
     /* PAPERS */
-    marquee {
-        font-size: x-large;
+     .p1 marquee {
+        display: none;
     }
 
     .img {
