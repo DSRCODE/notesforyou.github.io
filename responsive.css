@@ -342,8 +342,8 @@
         background-repeat: no-repeat;
     }
 
-    .p1 {
-        font-size: 25px;
+    .p1 marquee {
+        display: none;
     }
 
     #h {
