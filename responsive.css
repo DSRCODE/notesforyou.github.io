@@ -119,7 +119,7 @@
         font-size: large;
     }
 
-      .p1 marquee {
+      .moving-text {
         display: none;
     }
 
@@ -242,7 +242,7 @@
         width: 110px;
 
     }
-      .p1 marquee {
+      .moving-text {
         display: none;
     }
 
@@ -356,7 +356,7 @@
     }
 
     /* PAPERS */
-     .p1 marquee {
+     .moving-text {
         display: none;
     }
 
