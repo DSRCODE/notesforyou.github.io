@@ -78,6 +78,9 @@
         width: 33%;
         margin-inline: 5px;
     }
+     .p1 marquee {
+        display: none;
+    }
 
     /* PAPERS */
 
@@ -212,8 +215,8 @@
         background-repeat: no-repeat;
     }
 
-    marquee {
-        font-size: large;
+     .p1 marquee {
+        display: none;
     }
 
     #h {
